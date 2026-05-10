@@ -1,5 +1,8 @@
 Heat Flux Soil Sensor (Modbus RS485)
 
+<img width="5504" height="3072" alt="heatfluxsensor_slide_1" src="https://github.com/user-attachments/assets/1c5bd571-a0f2-4b81-8cb7-5e22e431c98a" />
+
+
 เซ็นเซอร์มี 2 ด้าน ด้านสีเขียว กับด้านสีส้ม การติดตั้ง จะต้องวางด้านสีเขียวไว้ด้านบน ด้านสีส้มไว้ด้านล่าง เท่านั้น จึงจะได้ประสิทธิภาพการวัดที่แม่นยำและถูกต้อง
 
 The sensor has two sides, a green side and an orange side. During installation, the green side must be placed upwards and the orange side downwards for accurate and precise measurements.
