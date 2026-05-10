@@ -37,7 +37,23 @@ RS485 (ModBus protocol)
 
 <img width="750" height="400" alt="8784" src="https://github.com/user-attachments/assets/8476cbf5-48b0-4777-bfd6-8178f833f8e2" />
 
+From the connection diagram in the reference information, the wiring method between the ESP32 board, MAX485 module, and the soil heat flux sensor can be summarized as follows:
 
+1. Connection between the ESP32 board and the MAX485 module
+Power supply:
+Connect the VIN pin of the ESP32 to the VCC pin of the MAX485 (red wire) to receive power.
+Connect the GND pin of the ESP32 to the GND pin of the MAX485 (black wire).
+Data signal wire: (Data/Control):
+1. Connect pin D4 of the ESP32 to the DI (Data In) pin of the MAX485 (light blue wire).
+2. Connect pin RX2 of the ESP32 to the DE (Data Enable) pin of the MAX485 (blue wire).
+3. Connect pin TX2 of the ESP32 to the RE (Receive Enable) pin of the MAX485 (pink wire).
+4. Connect pin D5 of the ESP32 to the RO (Receive Out) pin of the MAX485 (purple wire).
+2. Connecting the MAX485 module to the sensor:
+Connect signal A on the green terminal block of the MAX485 to signal A of the sensor (orange wire).
+5. Connect signal B of the MAX485 to signal B of the sensor (green wire).
+6. Powering the sensor:
+The sensor requires an external 5-30V DC power supply.
+Connect a separate power wire to the sensor. Connect the brown and black wires (in the image) to an external power supply with the specified voltage level.
 
 
 
