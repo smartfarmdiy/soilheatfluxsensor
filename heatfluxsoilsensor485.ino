@@ -20,9 +20,9 @@ void setup() {
   pinMode(MAX485_DE_RE, OUTPUT);
   digitalWrite(MAX485_DE_RE, LOW);
 
-  Serial2.begin(9600, SERIAL_8N1, RXD2, TXD2);
+  Serial1.begin(9600, SERIAL_8N1, RXD2, TXD2);
 
-  node.begin(1, Serial2); // Slave ID = 1
+  node.begin(1, Serial1); // Slave ID = 1
   node.preTransmission(preTransmission);
   node.postTransmission(postTransmission);
 
