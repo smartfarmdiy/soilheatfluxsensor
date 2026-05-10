@@ -4,15 +4,19 @@ Heat Flux Soil Sensor (Modbus RS485)
 
 
 เซ็นเซอร์มี 2 ด้าน ด้านสีเขียว กับด้านสีส้ม การติดตั้ง จะต้องวางด้านสีเขียวไว้ด้านบน ด้านสีส้มไว้ด้านล่าง เท่านั้น จึงจะได้ประสิทธิภาพการวัดที่แม่นยำและถูกต้อง
-<img width="1376" height="768" alt="fluxheatsensor-manual_Page_2" src="https://github.com/user-attachments/assets/a634b98c-1401-4a6f-ae72-ac907f326e4e" />
 <img width="1376" height="768" alt="fluxheatsensor-manual_Page_1" src="https://github.com/user-attachments/assets/2fc70b46-1a71-41fa-87f4-d8cd11c73b43" />
+<img width="1376" height="768" alt="fluxheatsensor-manual_Page_3" src="https://github.com/user-attachments/assets/cb96bcdf-be59-4ad7-aa3a-313d6f8a6133" />
+<img width="1376" height="768" alt="fluxheatsensor-manual_Page_2" src="https://github.com/user-attachments/assets/a634b98c-1401-4a6f-ae72-ac907f326e4e" />
+
 <img width="1376" height="768" alt="fluxheatsensor-manual_Page_8" src="https://github.com/user-attachments/assets/3abb013c-4990-4071-b175-350e3c0c0a03" />
 <img width="1376" height="768" alt="fluxheatsensor-manual_Page_7" src="https://github.com/user-attachments/assets/25ce1b95-dcb9-4cc2-b0c6-c1a81d9bc167" />
 <img width="1376" height="768" alt="fluxheatsensor-manual_Page_7" src="https://github.com/user-attachments/assets/23bfbb75-827f-4a74-ab75-d2ad3cdc352e" />
-<img width="1376" height="768" alt="fluxheatsensor-manual_Page_6" src="https://github.com/user-attachments/assets/5055d008-7320-420a-8abc-8596a040e864" />
-<img width="1376" height="768" alt="fluxheatsensor-manual_Page_5" src="https://github.com/user-attachments/assets/8f026ce5-e245-4654-b9be-c4da36330351" />
 <img width="1376" height="768" alt="fluxheatsensor-manual_Page_4" src="https://github.com/user-attachments/assets/7030503e-a2c2-4996-b3e0-bd9b6a5f31cf" />
-<img width="1376" height="768" alt="fluxheatsensor-manual_Page_3" src="https://github.com/user-attachments/assets/cb96bcdf-be59-4ad7-aa3a-313d6f8a6133" />
+<img width="1376" height="768" alt="fluxheatsensor-manual_Page_5" src="https://github.com/user-attachments/assets/8f026ce5-e245-4654-b9be-c4da36330351" />
+<img width="1376" height="768" alt="fluxheatsensor-manual_Page_6" src="https://github.com/user-attachments/assets/5055d008-7320-420a-8abc-8596a040e864" />
+
+
+
 
 
 
