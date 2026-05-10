@@ -7,6 +7,7 @@ Heat Flux Soil Sensor (Modbus RS485)
 
 The sensor has two sides, a green side and an orange side. During installation, the green side must be placed upwards and the orange side downwards for accurate and precise measurements.
 
+Here is specification part:
 power supply
 5-30V DC
 Maximum energy consumption.
